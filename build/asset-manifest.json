@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/2211cs010346mern/static/css/main.f855e6bc.css",
+    "main.js": "/2211cs010346mern/static/js/main.94839948.js",
+    "static/js/592.0e8d2afd.chunk.js": "/2211cs010346mern/static/js/592.0e8d2afd.chunk.js",
+    "static/media/mallareddyuniversity.jpg": "/2211cs010346mern/static/media/mallareddyuniversity.bf6a79d5ec05771f4c98.jpg",
+    "static/media/logo.svg": "/2211cs010346mern/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/2211cs010346mern/index.html",
+    "main.f855e6bc.css.map": "/2211cs010346mern/static/css/main.f855e6bc.css.map",
+    "main.94839948.js.map": "/2211cs010346mern/static/js/main.94839948.js.map",
+    "592.0e8d2afd.chunk.js.map": "/2211cs010346mern/static/js/592.0e8d2afd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.94839948.js"
+  ]
+}
